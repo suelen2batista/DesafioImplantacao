@@ -29,5 +29,5 @@ jobs:
       deploy:
         provider: heroku
         api_key: $HEROKU_API
-        app: suelen-ci-cd-pretalab
+        app: suelen-cd-ci-pretalab
         on: main
