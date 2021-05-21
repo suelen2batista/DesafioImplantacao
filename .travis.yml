@@ -29,5 +29,5 @@ jobs:
       deploy:
         provider: heroku
         api_key: $HEROKU_API
-        app: pretalab-ci-cd-marylly
-        on: master
+        app: suelen-ci-cd-pretalab
+        on: main
